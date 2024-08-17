@@ -1,0 +1,162 @@
+[
+    {
+        "name": "NordicPack Adventure Backpack",
+        "price": 109.95,
+        "company": "NordicGear",
+        "featured": true,
+        "imageUrl": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": 3.9
+    },
+    {
+        "name": "Urban Casual Slim Fit T-Shirt",
+        "price": 22.3,
+        "company": "CityWear Inc.",
+        "featured": false,
+        "imageUrl": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "rating": 4.1
+    },
+    {
+        "name": "Mountain Explorer Cotton Jacket",
+        "price": 55.99,
+        "company": "PeakPro Apparel",
+        "featured": true,
+        "imageUrl": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "rating": 4.7
+    },
+    {
+        "name": "MetroFit Casual Slim Fit Shirt",
+        "price": 15.99,
+        "company": "MetroStyle",
+        "featured": false,
+        "imageUrl": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "rating": 2.1
+    },
+    {
+        "name": "Naga Legends Dragon Bracelet",
+        "price": 695,
+        "company": "Mythic Jewelry Co.",
+        "featured": true,
+        "imageUrl": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "rating": 4.6
+    },
+    {
+        "name": "Petite Gold Micropave Ring",
+        "price": 168,
+        "company": "GoldenEdge",
+        "featured": false,
+        "imageUrl": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "rating": 3.9
+    },
+    {
+        "name": "Princess White Gold Plated Ring",
+        "price": 9.99,
+        "company": "ElegantGems",
+        "featured": false,
+        "imageUrl": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "rating": 3.0
+    },
+    {
+        "name": "Rose Gold Plated Steel Earrings",
+        "price": 10.99,
+        "company": "StellarPierce",
+        "featured": false,
+        "imageUrl": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "rating": 1.9
+    },
+    {
+        "name": "Elements 2TB Portable Hard Drive",
+        "price": 64,
+        "company": "TechStore",
+        "featured": false,
+        "imageUrl": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "rating": 3.3
+    },
+    {
+        "name": "SanDisk SSD PLUS 1TB",
+        "price": 109,
+        "company": "DataVault Inc.",
+        "featured": true,
+        "imageUrl": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "rating": 2.9
+    },
+    {
+        "name": "Silicon Power 256GB SSD",
+        "price": 109,
+        "company": "StorageMax",
+        "featured": true,
+        "imageUrl": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "rating": 4.8
+    },
+    {
+        "name": "WD 4TB Gaming Drive",
+        "price": 114,
+        "company": "GameStore",
+        "featured": true,
+        "imageUrl": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "rating": 4.8
+    },
+    {
+        "name": "Acer SB220Q 21.5 Inch Monitor",
+        "price": 599,
+        "company": "TechView",
+        "featured": false,
+        "imageUrl": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "rating": 2.9
+    },
+    {
+        "name": "Samsung 49-Inch Curved Monitor",
+        "price": 999.99,
+        "company": "VisionTech",
+        "featured": true,
+        "imageUrl": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "rating": 2.2
+    },
+    {
+        "name": "3-in-1 Snowboard Jacket",
+        "price": 56.99,
+        "company": "ArcticWear",
+        "featured": false,
+        "imageUrl": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "rating": 2.6
+    },
+    {
+        "name": "Removable Hooded Faux Leather Jacket",
+        "price": 29.95,
+        "company": "FauxStyle",
+        "featured": false,
+        "imageUrl": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "rating": 2.9
+    },
+    {
+        "name": "Women's Striped Rain Jacket",
+        "price": 39.99,
+        "company": "WeatherWear",
+        "featured": true,
+        "imageUrl": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "rating": 3.8
+    },
+    {
+        "name": "SunFit Women's Activewear Top",
+        "price": 12.99,
+        "company": "SunTech Apparel Co.",
+        "featured": true,
+        "imageUrl": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "rating": 4.5
+    },
+    {
+        "name": "Opna Women's Short Sleeve Moisture",
+        "price": 7.95,
+        "company": "Omega industries",
+        "featured": true,
+        "imageUrl": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "rating": 3.3
+    },
+    {
+        "name": "DANVOUY Womens T Shirt Casual Cotton Short",
+        "price": 12.99,
+        "company": "Alpha industries",
+        "featured": false,
+        "imageUrl": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "rating": 4.4
+    }
+]
